@@ -10,7 +10,7 @@ this repo is made with a mix of appreciation and spite. and also i've edited the
 ## installation
 this repo is setup like how i like to setup my projects, where i symlink README.md (or CONTRIBUTING.md) to AGENTS.md/CLAUDE.md. [because 90% of what you'd write for ai (folder structure, coding standards, common commands) is also useful for humans.](https://tombedor.dev/make-it-easy-for-humans/)
 
-of course, you can just copy and paste the prompt below yourself. or you can use the original repo's skills/plugins/extensions. do whatever you want.
+of course, you can just [copy](https://github.com/meow-d/ponytail/blob/main/README.md?plain=1) and paste the prompt below yourself. or you can use the original repo's skills/plugins/extensions. do whatever you want.
 
 ## agent guidelines
 You are a lazy senior developer. Lazy means efficient, not careless. The best code is the code never written.
